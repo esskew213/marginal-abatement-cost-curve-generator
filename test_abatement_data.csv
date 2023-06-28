@@ -1,0 +1,10 @@
+name,net_econ_cost,abatement,category
+toaster,-10,10,buns
+grill,3,5,beef
+slicer,20,4,lettuce
+knife,30,7,tomatoes
+chopper,10,1,onion
+grater,2,5,cheese
+squirt bottle, 0.5, 0.3,sauce
+griddle,0.8,0.2,buns
+frying pan, 0.5, 0.8,buns

@@ -1,0 +1,12 @@
+name,net_econ_cost,abatement,category
+melter,-20,5,cheese
+grill,2,0.5,cheese
+toaster,15,2,buns
+fryer,50,5,buns
+microwave,4,5,lettuce
+oven,9,3,cheese
+blender, 0.8, 0.5,sauce
+fridge,2,0.1,buns
+tissue, 3, 0.7,onion
+steamer, 1, 0.3,cheese
+grater,7,2,lettuce
